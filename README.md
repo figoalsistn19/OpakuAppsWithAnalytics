@@ -19,8 +19,7 @@ The Opaku E-commerce App is a Jetpack Compose-based application that allows user
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/SimpleECommerceApp.git
-cd SimpleECommerceApp
+git clone https://github.com/figoalsistn19/OpakuAppsWithAnalytics.git
 
 2️⃣ Run the Application
 

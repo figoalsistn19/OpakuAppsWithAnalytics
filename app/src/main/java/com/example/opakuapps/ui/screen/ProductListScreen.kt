@@ -91,7 +91,9 @@ fun ProductListScreen(
             }
         }
         if (showCheckoutScreen){
-            CheckoutScreen(totalPrice,analytics,products)
+            CheckoutScreen(totalPrice,analytics,products){
+                showCheckoutScreen=false
+            }
         }
     }
 }
